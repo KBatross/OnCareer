@@ -12,3 +12,7 @@ npm start
 
 ## To run the React Scripts client-side code run
 npm run client
+
+
+ec2-54-215-249-30.us-west-1.compute.amazonaws.com
+
